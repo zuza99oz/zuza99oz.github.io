@@ -2,7 +2,7 @@
 Welcome to my github page. I'm a goal-oriented specialist with strong attention to detail,
 always eager to learn new technologies. 
 Currently, I'm in the middle of my new out-of-work project, can't wait to share it here soon! :)
-# Education
+# Education:
 # Rzeszow Univeristy Of Technology - Engineer Degree in Management and Production Engineering
 -IT in company management
 -process management and modeling in IT
@@ -12,7 +12,7 @@ Currently, I'm in the middle of my new out-of-work project, can't wait to share 
 -MongoDB;
 -AWS;
 -SQL/T-SQL;
-# Work Experience
+# Work Experience:
 # Quality Controller | Exact Systems | july 2021 - may 2022
 ensuring the correct execution of components-
 meeting customer expectations in terms of product quality
@@ -25,7 +25,7 @@ Ad-hoc Excel reporting;
 SharePoint site administration;
 Substitute management of a team of software testers;
 Basic Python scripts.
-# Certification 
+# Certification: 
 “ANALIZA POWER BI - DAX + M” JSYSTEMS;
 “AWS ACADEMY GRADUATE - AWS ACADEMY;
 INTRODUCTION TO CLOUD SEMESTER 1“
