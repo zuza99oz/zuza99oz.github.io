@@ -14,8 +14,8 @@ Currently, I'm in the middle of my new out-of-work project, can't wait to share 
 -SQL/T-SQL;
 # Work Experience
 # Quality Controller | Exact Systems | july 2021 - may 2022
-- ensuring the correct execution of components-
-- meeting customer expectations in terms of product quality
+ensuring the correct execution of components-
+meeting customer expectations in terms of product quality
 # Senior Specialist in Automation & Reporting Team | Deloitte CE BSC | may 2022 - now
 Building and maintaining reports in PowerBI and VBA;
 ETL using PBI, VBA, Python;
